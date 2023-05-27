@@ -9,7 +9,7 @@ echo $sub > /root/cfku
 SUB_DOMAIN=${sub}.anuy.my.id
 CF_ID=anuybazoelk639@gmail.com
 CF_KEY=5fea2f8e2c45da4658778bcd81497c5dfdf33
-echo "nyarigratisan.software" > /root/domain
+echo "anuy.my.id" > /root/domain
 echo $SUB_DOMAIN > /root/domain
 
 set -euo pipefail
