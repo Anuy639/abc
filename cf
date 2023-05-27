@@ -3,10 +3,10 @@ red='\e[1;31m'
 green='\e[0;32m'
 NC='\e[0m'
 ns_domain_cloudflare1() {
-DOMAIN=nyarigratisan.software
+DOMAIN=anuy.my.id
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)
 echo $sub > /root/cfku
-SUB_DOMAIN=${sub}.nyarigratisan.software
+SUB_DOMAIN=${sub}.anuy.my.id
 CF_ID=anuybazoelk639@gmail.com
 CF_KEY=5fea2f8e2c45da4658778bcd81497c5dfdf33
 echo "nyarigratisan.software" > /root/domain
